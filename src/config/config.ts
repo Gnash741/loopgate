@@ -116,4 +116,4 @@ const unlockables: Unlockable[] = [
       "0xd71bafedec066ca5c5f9dcf145dca138fa0a2137ec7ce74bd5e382dbdaf324d7",
     ], // You need to own 'Sub-Citizen 2' to unlock this.
   },
-]
+];
