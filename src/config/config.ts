@@ -117,3 +117,5 @@ const unlockables: Unlockable[] = [
     ], // You need to own 'Sub-Citizen 2' to unlock this.
   },
 ];
+
+export { unlockables };
