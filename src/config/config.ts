@@ -116,6 +116,36 @@ const unlockables: Unlockable[] = [
       "0xd71bafedec066ca5c5f9dcf145dca138fa0a2137ec7ce74bd5e382dbdaf324d7",
     ], // You need to own 'Sub-Citizen 2' to unlock this.
   },
+  {
+    cid: "bafybeieolt7xtohhcm4uj2gs72aeuwirjvqygp42m7x3b77ljiui2fbuje", // Unreal Naked PEPE file
+    nftId: [
+      "0x8606ae7567f1c7a96de8308c58375e9fae043e6a379926cd577778fab948fd99",
+    ], // You need to own 'WE ARE ALL PEPE' to unlock this.
+  },
+  {
+    cid: "bafybeick5pzvkufkzptvspbwder4kc2sw5xx66dj5drsir45qxfkuwzboe", // Unreal Kraken PEPE file
+    nftId: [
+      "0xa610dcf6016c934f9ad83d9b3027a18248f6991da8387d36667ea8b01e47b378",
+    ], // You need to own 'Kraken PEPE' to unlock this.
+  },
+  {
+    cid: "bafybeidg6w52n7fet45py2gxku2kx7qmfrrdun3kmmfbn2rwr437dfc4lu", // Unreal Barbarian PEPE #3 file
+    nftId: [
+      "0x39ffe43cd8c3e768a456e9914760352d1b60f28d6d68972b4928d577afa85ff1", "0x29caafec4d942ac184d22f4224526f9689b7cf55a694a650a6c7a807f448789e",
+    ], // You need to own 'PEPE the Peparian v.03' and '420,690,000,000,000 Pepe Sword' to unlock this.
+  },
+  {
+    cid: "bafybeihqdxzuvme5brjnubnfkcyh2wz7cc2fehiwzzqsm53lzfucpho7dq", // Unreal Barbarian PEPE #2 file
+    nftId: [
+      "0x2f8983f9c4f46f09e1eec7d8b8a55d360c36a8be544698db22096c7da5e2fdc6", "0x8a751eeb68e507a1db30866b0d704ce8afe8407dbd1b3c38855ebee06248fbfa",
+    ], // You need to own 'PEPE the Peparian v.02' and '420,690,000,000,000 Pepe Sword' to unlock this.
+  },
+  {
+    cid: "bafybeibwypzighg34lwfw7tntmfu7eshdc67kjcb6irxix7n77xi63t34a", // Unreal Barbarian PEPE #1 file
+    nftId: [
+      "0xe47dda9edb33cf959c6e7efbf6bd15249a799c3cd49edaf46cc403939bd621c0", "0xe47dda9edb33cf959c6e7efbf6bd15249a799c3cd49edaf46cc403939bd621c0",
+    ], // You need to own 'PEPE the Peparian v.01' and '420,690,000,000,000 Pepe Sword' to unlock this.
+  },
 ];
 
 export { unlockables };
