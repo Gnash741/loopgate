@@ -146,6 +146,19 @@ const unlockables: Unlockable[] = [
       "0xe47dda9edb33cf959c6e7efbf6bd15249a799c3cd49edaf46cc403939bd621c0", "0xe47dda9edb33cf959c6e7efbf6bd15249a799c3cd49edaf46cc403939bd621c0",
     ], // You need to own 'PEPE the Peparian v.01' and '420,690,000,000,000 Pepe Sword' to unlock this.
   },
+  {
+    cid: "bafybeicjfhhgszcsdwpxb5rwhcif67zy3fbwahrlcz7lhpiwdywslzylua", // Unreal Clone Destroyer-BLK file
+    nftId: [
+      "0x448d8a81ef5f30f60b676ad284b5ce0bef808578fa7ae79e4408c063f04aa58d",
+    ], // You need to own 'CCC-6692' to unlock this.
+  },
+  {
+    cid: "bafybeid73zb2cp5omsbaskk4o6j2cqu6aaj5cumc7wh2qggipgie2r4qy4", // Unreal Clone Destroyer-WHT file
+    nftId: [
+      "
+      0xfe77f3508b53e22c2a318e3cce3f2629d058c4c1db54cfd188b7180844908192",
+    ], // You need to own 'CCC-6668' to unlock this.
+  },
 ];
 
 export { unlockables };
