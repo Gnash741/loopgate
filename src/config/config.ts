@@ -155,9 +155,26 @@ const unlockables: Unlockable[] = [
   {
     cid: "bafybeid73zb2cp5omsbaskk4o6j2cqu6aaj5cumc7wh2qggipgie2r4qy4", // Unreal Clone Destroyer-WHT file
     nftId: [
-      "
-      0xfe77f3508b53e22c2a318e3cce3f2629d058c4c1db54cfd188b7180844908192",
+      "0xfe77f3508b53e22c2a318e3cce3f2629d058c4c1db54cfd188b7180844908192",
     ], // You need to own 'CCC-6668' to unlock this.
+  },
+  {
+    cid: "bafybeicgsjnk7pughnluuwrm3o4gj2lztgybz6hvum5i6ouewx2t5hugnq", // Unreal Gnash Wokou file
+    nftId: [
+      "0x6e5eb3317adaa2397510f6ec1f2a2f50ddf4ebaea2e63f12479cfbefd0a16e68",
+    ], // You need to own 'Wokou Gnash' to unlock this.
+  },
+  {
+    cid: "bafybeigacuuczkx5ajchxezpkykx66xxdkli5kkqzidceo7qtqwnoa5pam", // Unreal Gnash Raku file
+    nftId: [
+      "0x1cffea187138459f4fe4920e3dddb3a6c8538d787365d0618674ac29ba09b087",
+    ], // You need to own 'Raku Gnash' to unlock this.
+  },
+  {
+    cid: "bafybeihacipdfwhzyhbvwpnqyfti6zw3xitgsgwgrqou5qfiyvvw6snvai", // Unreal Gnash Shinigami file
+    nftId: [
+      "0xe984c84dcfe2adc34299d6a8d82f3ce096608ba568340b0a8ce988137f208af9",
+    ], // You need to own 'Shinigami Gnash' to unlock this.
   },
 ];
 
