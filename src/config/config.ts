@@ -176,6 +176,162 @@ const unlockables: Unlockable[] = [
       "0xe984c84dcfe2adc34299d6a8d82f3ce096608ba568340b0a8ce988137f208af9",
     ], // You need to own 'Shinigami Gnash' to unlock this.
   },
+  {
+    cid: "bafybeiab5dcnb2gsv5nwrtnptp5da5tlvxoabmu5fg5ovlm4v66jftfqzi", // Unreal Female Custom file
+    nftId: [
+      "0xbda2e3c93f3f1bbe8ad95e8deaebc22aba4952e1712b27f49f1407791ec763d8",
+    ], // You need to own 'Qadira' to unlock this.
+  },
+  {
+    cid: "bafybeifcoyuloriysllcxrbmxyekgzvmwbatmneoht5oti3ejzvr5xjpqu", // Qadira Texture
+    nftId: [
+      "0xbda2e3c93f3f1bbe8ad95e8deaebc22aba4952e1712b27f49f1407791ec763d8",
+    ], // You need to own 'Qadira' to unlock this.
+  },
+  {
+    cid: "bafybeiab5dcnb2gsv5nwrtnptp5da5tlvxoabmu5fg5ovlm4v66jftfqzi", // Unreal Female Custom file
+    nftId: [
+      "0x7483918c498eb124d1b6816a1fdc15b799820b77b77537c79c61fe797c8d10ad",
+    ], // You need to own 'Blanca' to unlock this.
+  },
+  {
+    cid: "bafybeidrz5ubdc4dshn5ccwne5gnakwekfcdyxm6rmvql5s22mprer2iki", // Blanca Texture
+    nftId: [
+      "0x7483918c498eb124d1b6816a1fdc15b799820b77b77537c79c61fe797c8d10ad",
+    ], // You need to own 'Blanca' to unlock this.
+  },
+  {
+    cid: "bafybeiab5dcnb2gsv5nwrtnptp5da5tlvxoabmu5fg5ovlm4v66jftfqzi", // Unreal Female Custom file
+    nftId: [
+      "0x10c552c1a33e277fbbad432211200a8cf9193afe17453c7d5287c6ee56294d68",
+    ], // You need to own 'Cyanide' to unlock this.
+  },
+  {
+    cid: "bafybeiehf3hbp7lix6p6lf2li4xoby3bauzzid7qll5eot7ejidyvkooau", // Cyanide Texture
+    nftId: [
+      "0x10c552c1a33e277fbbad432211200a8cf9193afe17453c7d5287c6ee56294d68",
+    ], // You need to own 'Cyanide' to unlock this.
+  },
+  {
+    cid: "bafybeiab5dcnb2gsv5nwrtnptp5da5tlvxoabmu5fg5ovlm4v66jftfqzi", // Unreal Female Custom file
+    nftId: [
+      "0xf2e21610f7a5eed96abf2ab379d08282c3450b2f7bb3146bcd98af7c2daf6b20",
+    ], // You need to own 'Cougar' to unlock this.
+  },
+  {
+    cid: "bafybeiew2ipc7ong6aflazey2potn4mdq6pasbvymgq5lvfl342fbktiru", // Cougar Texture
+    nftId: [
+      "0xf2e21610f7a5eed96abf2ab379d08282c3450b2f7bb3146bcd98af7c2daf6b20",
+    ], // You need to own 'Cougar' to unlock this.
+  },
+  {
+    cid: "bafybeiab5dcnb2gsv5nwrtnptp5da5tlvxoabmu5fg5ovlm4v66jftfqzi", // Unreal Female Custom file
+    nftId: [
+      "0xe9c5ce5b1969b9493eaf08b7c603549e228ff11b9f65a4108969c16fc2967923",
+    ], // You need to own 'Ginger' to unlock this.
+  },
+  {
+    cid: "bafybeidbp46onkshqj5bgyl7u55r6cur5eiygybj74qh3kmfpcldu5qcsu", // Ginger Texture
+    nftId: [
+      "0xe9c5ce5b1969b9493eaf08b7c603549e228ff11b9f65a4108969c16fc2967923",
+    ], // You need to own 'Ginger' to unlock this.
+  },
+  {
+    cid: "bafybeiab5dcnb2gsv5nwrtnptp5da5tlvxoabmu5fg5ovlm4v66jftfqzi", // Unreal Female Custom file
+    nftId: [
+      "0x566818bc1283a4f8c0ac141db69df42aceffe76680e035a8a547fc6f66baf12a",
+    ], // You need to own 'Gordiria' to unlock this.
+  },
+  {
+    cid: "bafybeiegeinogs4tchjey2ddv3wu6x2fli3mht47k4stgiz3zpc5ag6tzm", // Gordiria Texture
+    nftId: [
+      "0x566818bc1283a4f8c0ac141db69df42aceffe76680e035a8a547fc6f66baf12a",
+    ], // You need to own 'Gordiria' to unlock this.
+  },
+  {
+    cid: "bafybeiab5dcnb2gsv5nwrtnptp5da5tlvxoabmu5fg5ovlm4v66jftfqzi", // Unreal Female Custom file
+    nftId: [
+      "0xb3e6f3823863a6e02942abe14dd65cfcc8d1a1708e2d68362d125d3995ce7799",
+    ], // You need to own 'Herbera' to unlock this.
+  },
+  {
+    cid: "bafybeiewcacb6qzsujum2lei4gwgm3mtubflynmdxzszfe5dzaae46pgyq", // Herbera Texture
+    nftId: [
+      "0xb3e6f3823863a6e02942abe14dd65cfcc8d1a1708e2d68362d125d3995ce7799",
+    ], // You need to own 'Herbera' to unlock this.
+  },
+  {
+    cid: "bafybeiab5dcnb2gsv5nwrtnptp5da5tlvxoabmu5fg5ovlm4v66jftfqzi", // Unreal Female Custom file
+    nftId: [
+      "0x2dec78a2ca8791ac05822475f83145c4345b5fbd70576263d5b100630663bf33",
+    ], // You need to own 'Jane Diamond' to unlock this.
+  },
+  {
+    cid: "bafybeifesi7gyeu2gw2axy6bspe7ru7qxrmo3karunialaaxeype5rfhli", // Jane Diamond Texture
+    nftId: [
+      "0x2dec78a2ca8791ac05822475f83145c4345b5fbd70576263d5b100630663bf33",
+    ], // You need to own 'Jane Diamond' to unlock this.
+  },
+  {
+    cid: "bafybeiab5dcnb2gsv5nwrtnptp5da5tlvxoabmu5fg5ovlm4v66jftfqzi", // Unreal Female Custom file
+    nftId: [
+      "0xba2ec4e9543101ae7834e0b412dcbc295886ba7d5d3989ef071c2826473c1978",
+    ], // You need to own 'Khayla2' to unlock this.
+  },
+  {
+    cid: "bafybeicwn4aebwjm7kq5xzdrux6c7livbwuvooamqqm4rbs4pjbocmcz5q", // Khayla2 Texture
+    nftId: [
+      "0xba2ec4e9543101ae7834e0b412dcbc295886ba7d5d3989ef071c2826473c1978",
+    ], // You need to own 'Khayla2' to unlock this.
+  },
+  {
+    cid: "bafybeiab5dcnb2gsv5nwrtnptp5da5tlvxoabmu5fg5ovlm4v66jftfqzi", // Unreal Female Custom file
+    nftId: [
+      "0x600674ff73e3fbe0dd6632d3b275177dacc019f94793afb5cfdea6c61559015b",
+    ], // You need to own 'Rescue' to unlock this.
+  },
+  {
+    cid: "bafybeia3ubicgnvucjjznrei2k6pw6zrdhv6bsh44q7meu5abl77y77uua", // Rescue Texture
+    nftId: [
+      "0x600674ff73e3fbe0dd6632d3b275177dacc019f94793afb5cfdea6c61559015b",
+    ], // You need to own 'Rescue' to unlock this.
+  },
+  {
+    cid: "bafybeiab5dcnb2gsv5nwrtnptp5da5tlvxoabmu5fg5ovlm4v66jftfqzi", // Unreal Female Custom file
+    nftId: [
+      "0x6d21ec478093e687b85e47ca8c7a08d5d445c828f024b1f9125f7d142556e9e9",
+    ], // You need to own 'Rosa' to unlock this.
+  },
+  {
+    cid: "bafybeiefldu6cp3xoxitlbrvszfojm2zdxi3p6vpj2ri77hugmcjaf3xxi", // Rosa Texture
+    nftId: [
+      "0x6d21ec478093e687b85e47ca8c7a08d5d445c828f024b1f9125f7d142556e9e9",
+    ], // You need to own 'Rosa' to unlock this.
+  },
+  {
+    cid: "bafybeiab5dcnb2gsv5nwrtnptp5da5tlvxoabmu5fg5ovlm4v66jftfqzi", // Unreal Female Custom file
+    nftId: [
+      "0x6b1caa4f87002e42170c243dc2b779b0bdcbf04200c448925330475490e550ac",
+    ], // You need to own 'FireGuard' to unlock this.
+  },
+  {
+    cid: "bafybeih4wde4wewvlpbpkpp7t7tznig47ponrghnjc5hyse6f4pdmmnxpq", // FireGuard Texture
+    nftId: [
+      "0x6b1caa4f87002e42170c243dc2b779b0bdcbf04200c448925330475490e550ac",
+    ], // You need to own 'FireGuard' to unlock this.
+  },
+  {
+    cid: "bafybeiab5dcnb2gsv5nwrtnptp5da5tlvxoabmu5fg5ovlm4v66jftfqzi", // Unreal Female Custom file
+    nftId: [
+      "0xcc86754baeaa0ff88aaa57e01d424eba4adda809c6895d35fe8467e7a4ef8b33",
+    ], // You need to own 'ValkyrieKhan' to unlock this.
+  },
+  {
+    cid: "bafybeiaxex6o765ugmdiyu5ib74g6ovrwr3i3vebozclzv5tjhohwoexva", // ValkyrieKhan Texture
+    nftId: [
+      "0xcc86754baeaa0ff88aaa57e01d424eba4adda809c6895d35fe8467e7a4ef8b33",
+    ], // You need to own 'ValkyrieKhan' to unlock this.
+  },
 ];
 
 export { unlockables };
