@@ -332,6 +332,42 @@ const unlockables: Unlockable[] = [
       "0xcc86754baeaa0ff88aaa57e01d424eba4adda809c6895d35fe8467e7a4ef8b33",
     ], // You need to own 'ValkyrieKhan' to unlock this.
   },
+  {
+    cid: "bafybeiab5dcnb2gsv5nwrtnptp5da5tlvxoabmu5fg5ovlm4v66jftfqzi", // Unreal Female Custom file
+    nftId: [
+      "0x7713737b7dfff3f4f7c5dc2d9eef312406f8bf858a74f425df350ee34b829c29",
+    ], // You need to own 'Becky' to unlock this.
+  },
+  {
+    cid: "bafybeibhj5oxvris3of4xxmakt5mbu3n4dmnfb4aoq5ww4vn2cfilfdhpe", // Becky Texture
+    nftId: [
+      "0x7713737b7dfff3f4f7c5dc2d9eef312406f8bf858a74f425df350ee34b829c29",
+    ], // You need to own 'Becky' to unlock this.
+  },
+  {
+    cid: "bafybeiab5dcnb2gsv5nwrtnptp5da5tlvxoabmu5fg5ovlm4v66jftfqzi", // Unreal Female Custom file
+    nftId: [
+      "0x4c02d82c71b845de48427f25ae9ff73352514bcc6a8f37a60b70f81968c0b011",
+    ], // You need to own 'Mycelia' to unlock this.
+  },
+  {
+    cid: "bafybeicw5pmn6danhjw3i3imbxejsc4kbtqoylk6urvaj4g7qwva2smzpu", // Mycelia Texture
+    nftId: [
+      "0x4c02d82c71b845de48427f25ae9ff73352514bcc6a8f37a60b70f81968c0b011",
+    ], // You need to own 'Mycelia' to unlock this.
+  },
+  {
+    cid: "bafybeiab5dcnb2gsv5nwrtnptp5da5tlvxoabmu5fg5ovlm4v66jftfqzi", // Unreal Female Custom file
+    nftId: [
+      "0x8e0d0b8cb13596aff892fed2391046a80b4fddab1f7cfb35ea7d07bada169c5d",
+    ], // You need to own 'OniVera' to unlock this.
+  },
+  {
+    cid: "bafybeidkkhh2hd4s5zrr5xa5xfkuwvwiwoeuedbw6ojsvgq54ojyuptoze", // OniVera Texture
+    nftId: [
+      "0x8e0d0b8cb13596aff892fed2391046a80b4fddab1f7cfb35ea7d07bada169c5d",
+    ], // You need to own 'OniVera' to unlock this.
+  },
 ];
 
 export { unlockables };
